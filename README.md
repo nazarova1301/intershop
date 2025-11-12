@@ -15,3 +15,4 @@
    * [Тест-кейсы 2](https://docs.google.com/spreadsheets/d/1NXsESMqQvHYmjurTOpwA_ycoWC5LJUEYjkFkd1zFRbo/edit?usp=drive_link) – тестирование запросов PUT и DELETE с помощью Postman.
    * [Тест-кейсы 3](https://docs.google.com/spreadsheets/d/1Z4tccTYRYJtb_41IvP3PthnCkfgiUBlVtBwy9ARQxMA/edit?usp=drive_link) – тестирование корректности отображения остатков товара на сайте.
    * [Тест-кейсы 4](https://docs.google.com/spreadsheets/d/1l46fi9HjHfevOvURwNl0FMtTRDjGVtdNiyrR2xYEAmM/edit?usp=drive_link) – тестирование безопасности.
+   * [Баг-репорты](https://ru.yougile.com/board/53fkud804j3f) созданы с помощью TMS YouGile.
