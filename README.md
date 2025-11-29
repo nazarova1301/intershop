@@ -6,7 +6,7 @@
    * [Тест-кейсы 2](https://docs.google.com/spreadsheets/d/1QS5FNaoS4Z6Kfwu5hElcS81lxUSy_OwWggvyxoYZi0c/edit?usp=drive_link) – интеграционное тестирование главной страницы, каталога товаров, карточек товаров и корзины с оценкой трудозатрат на выполнение тестирования.
    * [Тест-кейсы 3](https://docs.google.com/spreadsheets/d/1R4XxvOZrfPkUZqAYfe6lqPiev6QeRQWShTj129q-V2Q/edit?usp=drive_link) – дымовое тестирование новой функциональности оформления и оплаты заказа.
    * [Тест-кейсы 4](https://docs.google.com/spreadsheets/d/18mahhOD5uqVRztYi5N79r9u-5VxgRMHmL5K4lsyKpug/edit?usp=drive_link) – повторное и регрессионное тестирование после исправления багов.
-   * [Тест-кейсы 5](https://docs.google.com/spreadsheets/d/1rXoPKu2e-2GlNT-GfdVJ2BwhkKEHF523R8Q7d9mTpgo/edit?usp=drive_link) – UI-тестирование редизайна всего сайта в соотвествии с макетами в Figma.
+   * [Тест-кейсы 5](https://docs.google.com/spreadsheets/d/1rXoPKu2e-2GlNT-GfdVJ2BwhkKEHF523R8Q7d9mTpgo/edit?usp=drive_link) – UI-тестирование редизайна всего сайта в соответствии с макетами в Figma.
    * [Баг-репорты](https://ru.yougile.com/board/d0j8tx2w39w8) созданы с помощью TMS YouGile, в том числе проведено тестирование аналитики.
    * [Отчёт о тестировании](https://docs.google.com/document/d/1nDjovOqHWH_Mv8X68p0uMnjUePosxUtPW4QlMhaG2z0/edit?usp=drive_link) составлен после завершения тестирования.
 
